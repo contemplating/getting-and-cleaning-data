@@ -4,7 +4,7 @@ The file contains the average of the measurements of movement tracking devices.
 
 Variables:
 
-1. subject - the ID of the subject^. Its range is from 1 to 30.
+1. subject - the ID of the subject. Its range is from 1 to 30.
 2. activity - the activity the sibject was engaged in during the measurements
 3. body.acc.x - the average of the body acceleration signals in the X direction (standard gravity units 'g')
 4. body.acc.y - the average of the body acceleration signals in the Y direction (standard gravity units 'g')
