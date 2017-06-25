@@ -1,11 +1,15 @@
 # Codebook for the file activity_subject.csv
 
-The file contains the average of the measurements of movement tracking devices.
+The data is a summary of the results of an experiment that measures the output of smartphone movement detection devices.
+
+(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) 
+
+This data contain the average of measurents, grouped by subject and activity 
 
 Variables:
 
 1. subject - the ID of the subject. Its range is from 1 to 30.
-2. activity - the activity the sibject was engaged in during the measurements
+2. activity - the activity the subject was engaged in during the measurements
 3. body.acc.x - the average of the body acceleration signals in the X direction (standard gravity units 'g')
 4. body.acc.y - the average of the body acceleration signals in the Y direction (standard gravity units 'g')
 5. body.acc.z - the average of the body acceleration signals in the Z direction (standard gravity units 'g')
