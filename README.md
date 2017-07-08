@@ -7,4 +7,14 @@ Contains the summary data of movement tracking measurements, the codebook, and t
 * Codebook.md - description of the variabels
 * run_analysis.R - the script that was used to run the analysis
 
-Jaco van der Plas, June 2017
+The data is a summary of the results of an experiment that measures the output of smartphone movement detection devices.
+
+(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) 
+
+The test and training data was merged into one dataset. Only the mean and standard deviation measurements where selected.
+
+In the next step the mean measure where taken and averaged over subject and activity.
+
+
+
+Jaco van der Plas, July 2017
