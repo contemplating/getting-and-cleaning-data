@@ -13,8 +13,6 @@ The data is a summary of the results of an experiment that measures the output o
 
 The test and training data was merged into one dataset. Only the mean and standard deviation measurements where selected.
 
-In the next step the mean measure where taken and averaged over subject and activity.
-
-
+In the next step the mean measure where taken and averaged over subject and activity. This data is saved in activity_subject.csv 
 
 Jaco van der Plas, July 2017
